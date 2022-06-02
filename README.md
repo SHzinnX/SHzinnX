@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @SHzinnX
+- Meu E-mail de contato é samuel.bortoleto.souza@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar
+- 🌱 Eu estou aprendendo a programar recentimente a linguagem de JavaScript e Scratch 
